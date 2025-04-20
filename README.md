@@ -32,7 +32,7 @@ I'm an Aerospace Engineering student at the University of Sydney 🛫, with a gr
 ---
 
 📫 **Reach out**:  
-Feel free to connect with me on [Linkedin]((https://www.linkedin.com/in/aaryan-aero/)) or shoot a message via GitHub Issues on any of my repos! Always happy to collaborate or brainstorm something new.
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/aaryan-aero/) or shoot a message via GitHub Issues on any of my repos! Always happy to collaborate or brainstorm something new.
 
 
 
