@@ -23,7 +23,7 @@ I'm an Aerospace Engineering student at the University of Sydney 🛫, with a gr
 - Reinforcement Learning for robotics
 - Better workflows with Conda, Makefiles, and GitHub Actions
 
-### 🌱 Outside of code...
+### 🌱 Outside of study...
 - I love music (all types)
 - I cook my own food while debugging
 - I occasionally animate physics and aesthetic systems 🎞️
