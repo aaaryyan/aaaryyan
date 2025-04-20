@@ -3,7 +3,7 @@
 I'm an Aerospace Engineering student at the University of Sydney 🛫, with a growing passion for simulation, control systems, and intelligent automation. I explore the intersection of engineering, code, and real-world applications — whether it’s simulating a rocket injector, animating a falling object, or visualizing data .
 
 ### 🚀 What I’m working on:
-- Mechatronic system design with sensors, comparators, and PCB integration ⚙️
+- Aerodynamic case studies
 - Data analysis + visualization projects in Python & R 📊
 - Signal processing for EEG-based seizure detection 🧠
 - Personal simulations: from particle dynamics to crime density mapping 🌐
